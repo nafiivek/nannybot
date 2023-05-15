@@ -1,2 +1,2 @@
 # nannybot
-help mommy
+mommy helper
